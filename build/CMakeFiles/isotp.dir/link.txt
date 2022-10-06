@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC -shared -Wl,-soname,libisotp.so -o libisotp.so CMakeFiles/isotp.dir/isotp.c.o CMakeFiles/isotp.dir/isotp_user.c.o 

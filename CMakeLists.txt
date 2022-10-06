@@ -16,4 +16,4 @@ include_directories(
 # Compile isotp as Shared Lib
 ###
 add_library(isotp SHARED
-            isotp.c)
+            isotp.c isotp_user.c)
